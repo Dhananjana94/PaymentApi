@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPayment", "ApiPayment.csproj", "{5501D386-897E-450B-A4C9-CC559A31371E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5501D386-897E-450B-A4C9-CC559A31371E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5501D386-897E-450B-A4C9-CC559A31371E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5501D386-897E-450B-A4C9-CC559A31371E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5501D386-897E-450B-A4C9-CC559A31371E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF3C5953-4891-49EA-BA53-CF40E7F439E5}
+	EndGlobalSection
+EndGlobal
